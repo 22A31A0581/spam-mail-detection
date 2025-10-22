@@ -1,11 +1,11 @@
 # spam-mail-detection
-📘 Project Overview
+# 📘 Project Overview
 
 This project detects whether an email is Spam or Ham (Not Spam) using Machine Learning and Natural Language Processing (NLP) techniques.
 The model is trained on a dataset of labeled emails and uses TF-IDF vectorization with Logistic Regression for classification.
 
 
-🚀 Technologies Used:
+# 🚀 Technologies Used:
 
 Python – Programming language
 
@@ -23,7 +23,7 @@ NLP Techniques – Text cleaning, tokenization, TF-IDF
 
 Matplotlib / Seaborn (optional) – For visualizations
 
-🧠 Machine Learning Workflow
+# 🧠 Machine Learning Workflow
 
 Data Collection – Load email dataset (e.g., mail_data.csv)
 
