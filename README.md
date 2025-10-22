@@ -8,12 +8,19 @@ The model is trained on a dataset of labeled emails and uses TF-IDF vectorizatio
 🚀 Technologies Used:
 
 Python – Programming language
+
 Google Colab – Development and model training environment
+
 pandas, NumPy – Data handling and preprocessing
+
 scikit-learn – ML library for feature extraction and model building
+
 TfidfVectorizer for text feature extraction
+
 LogisticRegression for classification
+
 NLP Techniques – Text cleaning, tokenization, TF-IDF
+
 Matplotlib / Seaborn (optional) – For visualizations
 
 Machine Learning Workflow:
