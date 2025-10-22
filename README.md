@@ -27,19 +27,4 @@ Model Training – Train a Logistic Regression model
 Model Evaluation – Test accuracy, precision, recall, and F1-score
 Prediction – Classify new/unseen emails as Spam or Ham
 
-📂 Folder Structure
-Spam-Mail-Detection/
-│
-├── dataset/
-│   └── mail_data.csv
-│
-├── Spam_Mail_Detection.ipynb   # Main Google Colab notebook
-│
-├── requirements.txt             # Python dependencies
-│
-└── README.md                    # Project documentation
 
-
-How to run:
-git clone https://github.com/22A31A0581/spam-mail-detection.git
-cd spam-mail-detection
