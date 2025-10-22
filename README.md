@@ -23,7 +23,7 @@ NLP Techniques – Text cleaning, tokenization, TF-IDF
 
 Matplotlib / Seaborn (optional) – For visualizations
 
-Machine Learning Workflow:
+🧠 Machine Learning Workflow
 
 Data Collection – Load email dataset (e.g., mail_data.csv)
 
